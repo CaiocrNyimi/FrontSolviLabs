@@ -90,7 +90,7 @@ Este projeto é um sistema web para cadastro de problemas automotivos e serviço
 
 1. Clone o Repositório:
 
-    git clone 
+    git clone https://github.com/CaiocrNyimi/FrontSolviLabs.git
 
 2. Instale as Dependências:
 
