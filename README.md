@@ -108,19 +108,3 @@ Abra o navegador e acesse a url 'http://localhost:3000'
 -- Configuração do Backend:
 
 O backend é uma API desenvolvida em Java. Para utilizar, basta apenas baixar a aplicação Java, abrir e executar a classe 'Main', fazendo isso a API funcionará localmente.
-
--- Fazer Deploy no Vercel:
-
-1. Instale o Vercel CLI:
-
-    npm install -g vercel
-
-2. Autentique no Vercel:
-
-    vercel login
-
-3. Implamnte o Projeto:
-
-    vercel (executar na raiz do projeto)
-
-4. Responda as perguntas e finalize o deploy.
