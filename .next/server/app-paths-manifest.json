@@ -1,0 +1,10 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/veiculos/route": "app/api/veiculos/route.js",
+  "/page": "app/page.js",
+  "/cadastro/page": "app/cadastro/page.js",
+  "/cadastrar-veiculo/page": "app/cadastrar-veiculo/page.js",
+  "/sobre-nos/page": "app/sobre-nos/page.js",
+  "/participantes/page": "app/participantes/page.js",
+  "/listar-veiculos/page": "app/listar-veiculos/page.js"
+}

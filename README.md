@@ -16,7 +16,6 @@ Este projeto é um sistema web para cadastro de problemas automotivos e serviço
 
 - Frontend: React, Next.js, Tailwind CSS;
 - Backend: API desenvolvida em Java;
-- Deploy: Vercel.
 
 -- Estrutura do Projeto:
 
@@ -94,7 +93,7 @@ Este projeto é um sistema web para cadastro de problemas automotivos e serviço
 
 2. Instale as Dependências:
 
-    cd sprint4
+    cd FrontSolviLabs
     npm i
 
 3. Execute o Projeto:
